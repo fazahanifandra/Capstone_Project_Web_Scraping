@@ -2,6 +2,8 @@
 
 Projek ini dikembangkan sebagai salah satu capstone project dari Algoritma Academy dalam spesialisasi _Data Analytics_. Deliverables yang diharapkan dari projek ini adalah melakukan _web scraping_ sederhana untuk mendapatkan informasi. Untuk panduan langkah demi langkah, Anda dapat membuka repositori Git berikut [di sini](https://github.com/t3981-h/Webscrapping-with-BeautifulSoup "Web Scraping with Beautiful Soup"). Kita juga akan menggunakan dashboard sederhana Flask untuk menampilkan hasil _scrap_ dan visualisasi.
 
+Spesifik untuk case ini, saya melakukan Web Scraping untuk data 2024 Worldwide Box Office dari https://www.boxofficemojo.com/year/world/. Data yang didapatkan akan melalui data cleansing, visualisasi hingga ditampilkan hasilnya di Flask sebagai media dashboard sederhana.
+
 ## Project Requirements
 
 **Relevant Topics**:
